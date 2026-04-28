@@ -11,4 +11,7 @@ public:
     }
 };
 
-int 
+int main()
+{
+    mahasiswa *mhs = new mahasiswa(1); //pointer object mhs
+}
